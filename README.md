@@ -3,9 +3,9 @@
    
 - 🌱 I’m currently learning **new skills.**                                         
                    
-- 🔭 I’m currently working on **Repositories which interests me.**  
+- 👨‍💻 I’m currently working on **Repositories which interests me.**  
  
-- 👯 I’m looking to collaborate on **Web Development projects.**
+- 📄 I’m looking to collaborate on **Web Development projects.**
  
 - 📫 How to reach me **shubhisharma30@gmail.com**
  
