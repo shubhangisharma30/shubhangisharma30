@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Shubhangi Sharma </h1>
 <h3 align="center"> Aspiring Full Stack Developer</h3>  
    
-- 🌱 I’m currently learning **new skills.**                                         
+- 🌱 I’m currently learning **backend frameworks.**                                         
                    
 - 👨‍💻 I’m currently working on **Repositories which interests me.**  
  
